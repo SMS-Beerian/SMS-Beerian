@@ -22,7 +22,8 @@ I'm a learning-addicted wannabe polymath looking to expand my horizons.
 ### Find me at:
 - **📷 Instagram:** @sonii.mazov
 - **💼 Likedin:** in/soni1mazov3sms
-- **📧 E-Mail:** profissional.molecular654@passfwd.com
+- **📧 Business E-Mail:** profissional.molecular654@passfwd.com
+- **📚 Institutional E-Mail:** 242023407@aluno.unb.br
 
 ---
 
