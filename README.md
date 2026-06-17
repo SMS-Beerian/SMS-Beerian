@@ -1,6 +1,6 @@
 ## Hi there! ✌️
 
-My name is Soní Mazov and it't a pleasure to meet you!  
+My name is Soní Mazov and it's a pleasure to meet you!  
 I'm a learning-addicted wannabe polymath looking to expand my horizons.
 
 ### Personal details:
@@ -27,7 +27,9 @@ I'm a learning-addicted wannabe polymath looking to expand my horizons.
 ---
 
 "Never despair: change is a state of mind that everyone shares."  
-— Stafford Beer (🌟 1926-2002 ♾️)
+— Stafford Beer (🌟 1926-2002 ♾️)  
+
+![Old black-and-white picture of Stafford Beer](https://github.com/SMS-Beerian/SMS-Beerian/blob/main/Stafford_Beer_We_Can.jpg?raw=true)
 
 <!--
 **SMS-Beerian/SMS-Beerian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
